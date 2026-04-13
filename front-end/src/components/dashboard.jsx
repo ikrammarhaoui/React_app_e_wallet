@@ -1,5 +1,5 @@
 import Footer from "./footer";
-import img from "../assets/e-Wallet6.gif" 
+import img from "../assets/e-wallet-logo.avif"; 
 
 function Dashboard() {
   return (
