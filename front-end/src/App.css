@@ -808,6 +808,8 @@ footer {
   width: 100%;
   padding: 0.8rem;
   border: 2px solid #e0e0e0;
+    color: #333;
+
   border-radius: 10px;
   font-size: 1rem;
   transition: border-color 0.3s, box-shadow 0.3s;
