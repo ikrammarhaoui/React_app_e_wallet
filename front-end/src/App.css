@@ -167,6 +167,7 @@ header {
   border-radius: 14px;
   border: 1px solid #ddd;
   background: #f9faff;
+  color: #333;
   font-size: 0.95rem;
   transition: all 0.3s ease;
 }
